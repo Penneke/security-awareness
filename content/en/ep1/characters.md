@@ -3,7 +3,7 @@ name: "The characters of the story"
 characters:
   character-1:
     name: 'Ludovica' 
-    description: "Ludovica is an iron manager. Always attentive to all details, she is a tireless worker."
+    description: "Ludovica is an iron manager. She is a tireless worker, detail-oriented."
     image: "characters/Ludovica.png"
   character-2:
     name: 'Carla'
